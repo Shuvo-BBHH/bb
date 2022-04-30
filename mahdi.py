@@ -260,8 +260,11 @@ def hasil(OK,cp):
 	    R()
 
 		
-
 def R():
-print("mahdi")
 
-	
+			os.system("clear")
+
+			print(logo)
+
+			print("               \033[1;92m• Premium • \033[1;97m")
+
